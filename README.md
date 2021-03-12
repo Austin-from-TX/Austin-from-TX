@@ -1,7 +1,6 @@
-### Hi there 👋
 
-<!--
-**Austin-from-TX/Austin-from-TX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<--**Austin-from-TX/Austin-from-TX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 #### Hello, I'm Austin Howard, an experienced full-stack software engineer for web and mobile apps.
 
 - 🔭 I’m currently developing a number of full-stack web apps
@@ -83,7 +82,7 @@ Here are some ideas to get you started:
 
 
 
-Here are some ideas to get you started:
+<--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
