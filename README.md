@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning how to network
 - 🤔 I'm looking for my next coding language/challenge
 -  ⚡ Fun fact: Cooking fine meals is a an art and a passion
-- Pronouns: he/him/his
+
 
 <br>
 
