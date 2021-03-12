@@ -7,6 +7,8 @@
 -  ⚡ Fun fact: Cooking fine meals is a an art and a passion
 - Pronouns: he/him/his
 
+<br>
+
 ### Tools I work with : 🛠
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%2361DAFB">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   
@@ -33,6 +35,8 @@ For a comprehensive list of my tools and skills, please check here: https://tony
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=suasllc&repo=instavibes" alt="instavibes" />
 </a>
 -->
+
+<br>
 
 <!-- <br>
 <img src="https://github-readme-stats.vercel.app/api?username=suasllc&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19"> -->
