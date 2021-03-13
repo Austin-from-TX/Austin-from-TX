@@ -4,7 +4,8 @@
 - 🔭 I’m seeking a full time development role
 - 🌱 I’m currently learning how to network
 - 🤔 I'm looking for my next coding language/challenge
--  ⚡ Fun fact: Cooking fine meals is a an art and a passion
+-  ⚡ Fun fact: Exploring and cooking foriegn cuisine is a an art and a passion
+-  ⚡ Fun fact: Avid enthusiast of craft beer and homebrewing
 
 
 <br>
