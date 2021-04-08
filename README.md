@@ -5,13 +5,19 @@
 - 😄 Pronouns: He/Him/His
 -  ⚡ Fun fact: I'm an avid world traveller and have lived all over including Dallas, Honolulu, SLC, DC, NYC and Dublin.  
 
+<br>
+
 #### My Projects Are Showcased Here:
 
 [website]
 
+<br>
+
 #### You Can Reach Me:
 
 austin.smithfield@gmail.com
+
+<br>
 
 #### You can also find me on
  
@@ -19,6 +25,7 @@ austin.smithfield@gmail.com
   [<img align="left" alt="austinhoward | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   [<img align="left" alt="austinhoward | AngelList" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][angellist]
 
+<br>
 <br>
 
 #### Languages and Tools: 
