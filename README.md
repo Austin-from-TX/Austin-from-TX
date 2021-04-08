@@ -30,9 +30,9 @@ For a comprehensive list of my tools and skills, please check here: https://tony
 
 ### You can also find me on
  
-  <!-- [<img align="left" alt="tonyngo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-  [<img align="left" alt="tonyngo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  <!-- [<img align="left" alt="tonyngo | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+  [<img align="left" alt="austinhoward | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+  [<img align="left" alt="austinhoward | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="austinhoward | AngelList" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][angellist] -->
 
 <br>
 <br>
@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://tonyngo.me
+[website]: https://austin-from-tx.github.io/
 [linkedin]: https://www.linkedin.com/in/stevenaustinhoward/
-[youtube]: https://youtube.com/suascom
+[angellist]: https://angel.co/u/steven-howard-11
 
 
