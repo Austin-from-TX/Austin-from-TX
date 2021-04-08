@@ -6,7 +6,7 @@
 -  ⚡ Fun fact: I'm an avid world traveller and have lived all over including Dallas, Honolulu, SLC, DC, NYC and Dublin.  
 
 
-#### My Projects:
+### My Projects:
 
 [<img alt='UBrew' width='400px' height='300px' src='https://u-brew-flask.s3-eu-west-1.amazonaws.com/splash.png' />][ubrew]
 [<img alt='Artizen' width='400px' height='300px' src='https://artizen-flask-app.s3.amazonaws.com/artizen_meta2.png' />][artizen]
