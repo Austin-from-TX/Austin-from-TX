@@ -8,7 +8,10 @@
 
 #### My Projects Are Showcased Here:
 
-[website]
+[<img align='left' alt='UBrew' src='https://u-brew-flask.s3-eu-west-1.amazonaws.com/splash.png' />][ubrew]
+[<img align='left' alt='Artizen' src='https://artizen-flask-app.s3.amazonaws.com/artizen_meta2.png' />][artizen]
+[<img align='left' alt='nice-bytes' src='https://u-brew-flask.s3-eu-west-1.amazonaws.com/nice-bytes-thumbnail.png' />][nice-bytes]
+[<img align='left' alt='band-aid' src='' />][band-aid]
 
 
 #### You Can Reach Me:
@@ -58,5 +61,9 @@ Here are some ideas to get you started:
 [website]: https://austin-from-tx.github.io/
 [linkedin]: https://www.linkedin.com/in/stevenaustinhoward/
 [angellist]: https://angel.co/u/steven-howard-11
+[ubrew]: https://ubrew.herokuapp.com
+[artizen]: https://artizen.herokuapp.com
+[nice-bytes]: https://nice-bytes.herokuapp.com
+[band-aid]: https://band-aid-react-redux.herokuapp.com/
 
 
