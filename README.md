@@ -5,19 +5,16 @@
 - 😄 Pronouns: He/Him/His
 -  ⚡ Fun fact: I'm an avid world traveller and have lived all over including Dallas, Honolulu, SLC, DC, NYC and Dublin.  
 
-<br>
 
 #### My Projects Are Showcased Here:
 
 [website]
 
-<br>
 
 #### You Can Reach Me:
 
 austin.smithfield@gmail.com
 
-<br>
 
 #### You can also find me on
  
@@ -27,6 +24,8 @@ austin.smithfield@gmail.com
 
 <br>
 <br>
+
+
 
 #### Languages and Tools: 
 
