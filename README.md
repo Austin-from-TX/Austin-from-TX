@@ -8,10 +8,10 @@
 
 #### My Projects Are Showcased Here:
 
-[<img alt='UBrew' width='500px' height='400px' src='https://u-brew-flask.s3-eu-west-1.amazonaws.com/splash.png' />][ubrew]
-[<img alt='Artizen' width='500px' height='400px' src='https://artizen-flask-app.s3.amazonaws.com/artizen_meta2.png' />][artizen]
-[<img' alt='nice-bytes' width='500px' height='400px' src='https://u-brew-flask.s3-eu-west-1.amazonaws.com/nice-bytes-thumbnail.png' />][nice-bytes]
-[<img alt='band-aid' width='500px' height='400px' src='' />][band-aid]
+[<img alt='UBrew' width='300px' height='200px' src='https://u-brew-flask.s3-eu-west-1.amazonaws.com/splash.png' />][ubrew]
+[<img alt='Artizen' width='300px' height='200px' src='https://artizen-flask-app.s3.amazonaws.com/artizen_meta2.png' />][artizen]
+[<img alt='nice-bytes' width='300px' height='200px' src='https://u-brew-flask.s3-eu-west-1.amazonaws.com/nice-bytes-thumbnail.png' />][nice-bytes]
+[<img alt='band-aid' width='300px' height='200px' src='' />][band-aid]
 
 <br>
 
