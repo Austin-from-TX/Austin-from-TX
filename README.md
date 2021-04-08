@@ -29,7 +29,7 @@ For a comprehensive list of my tools and skills, please check here: https://tony
 ### My latest projects
 
 <a href="https://github.com/suasllc/dronest">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=suasllc&repo=dronest" alt="dronest" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=austin-from-tx" alt="austin-from-tx" />
 </a>
 <a href="https://github.com/suasllc/instavibes">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=suasllc&repo=instavibes" alt="instavibes" />
