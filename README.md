@@ -1,4 +1,4 @@
-#### Hi, I'm Austin!  Full Stack Engineer 
+## Hi, I'm Austin!  Full Stack Engineer 
 
 - 🔭 I’m seeking a full time development role
 - 🌱 I’m currently learning to integrate MongoDB on the backend
