@@ -66,6 +66,6 @@ Here are some ideas to get you started:
 [ubrew]: https://ubrew.herokuapp.com
 [artizen]: https://artizen.herokuapp.com
 [nice-bytes]: https://nice-bytes.herokuapp.com
-[band-aid]: https://band-aid-react-redux.herokuapp.com/
+[band-aid]: https://band-aid-react.herokuapp.com/
 
 
